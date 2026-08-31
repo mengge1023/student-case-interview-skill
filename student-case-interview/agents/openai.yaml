@@ -1,0 +1,4 @@
+interface:
+  display_name: "学员案例访谈"
+  short_description: "将学员分享整理成高信任、高转化、可发布的公众号访谈文章"
+  default_prompt: "Use $student-case-interview to turn this student sharing outline into a publishable WeChat interview."

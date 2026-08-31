@@ -1,0 +1,17 @@
+# Student source material and generated deliverables
+student-data/
+inputs/
+outputs/
+*.docx
+*.xlsx
+*.xls
+*.csv
+*.zip
+
+# Local and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
