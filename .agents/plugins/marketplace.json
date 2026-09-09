@@ -1,0 +1,20 @@
+{
+  "name": "mengge-student-case-tools",
+  "interface": {
+    "displayName": "孟哥学员案例工具"
+  },
+  "plugins": [
+    {
+      "name": "student-case-interview",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
