@@ -1,0 +1,6 @@
+{
+  "name": "student-case-interview",
+  "version": "1.0.0",
+  "description": "将真实学员分享稿、访谈记录和案例素材整理为可发布的公众号学员访谈，并生成直播采访提纲与证据准备清单。",
+  "skills": "./skills/"
+}
